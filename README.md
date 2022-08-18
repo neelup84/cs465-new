@@ -9,7 +9,9 @@
 **Security** A JSON web token is used to authenticate and authorize API endpoints. A JWT is issued to their browser's local storage when the user's credentials are authenticated. Passwords are never stored in plaintext on the backend and are encrypted one way.
 
 **Mean Stack** 
+
 **1.** MongoDB is known for its speed and flexibility compared to SQL relational databases. Because MongoDB code is developed using BSON and JSON, it is a great candidate for MEAN stack applications primarily using JSON and JavaScript.
+
 **2.** Express is a Node.js framework that simplifies the development of Node applications. Combining Express and Handlebars allows HTML pages to be dynamically rendered and templated.
 
 **3.** Frontend frameworks such as Angular allow the use of SPAs. As a result of this type of architecture, the client is sent a lot of JavaScript files with the first request and can then generate all of the webpages without having to request the server again. With Angular SPAs, the server is less stressed, and the user experience is faster and more responsive. This approach has the disadvantage of making it difficult for search engines to crawl the site. SPAs also require a slow initial page load which may negatively impact the user experience.
