@@ -18,6 +18,12 @@
  
 **4**. Many modern web servers are created using Node.js, a software platform. Web applications are built on top of it. Because Node and Express use JavaScript as their primary programming language, learning the MEAN stack is simple since JavaScript is all you need to know.
 
+**Reflection**: 
+As a result of this course, I have developed my professional skills. Unfortunately, working a part-time job and going to school has made it hard to find the time for myself. Nevertheless, this class taught me a better understanding of frontend and backend development. 
+
+I have gained a better understanding of my options when choosing a career field after school in two months. In addition, during this course, I have developed a greater understanding of how many components of code connect to create a finished product.
+
+
 
 
 
